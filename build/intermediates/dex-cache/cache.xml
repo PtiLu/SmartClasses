@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_d3a4e268ee5ebc6dbaffd283251cbd59ccd239bd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_876bba528faa12e2dbdad312765656490e559f0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_01038ae7e3b4549ad3ee79d239c67aa41793cc46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1557fc4d5ce6f1ef376ae07b9bc7ce0a4318b245/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_799fc946405be7e159dde7464582fb0fc2375f2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6bf7421f4e133ba625d923b55556951b0993bcb7">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5dd73e2aa851449c41eab7bc723f9c9cf41e89ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="88bd1de6038c40c7f355c44437b1c837c9647ea5">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84512baeee57c2b8d6f70a22fa6afbc01f200d36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Ludo/AndroidStudioProjects/SmartClasses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_da1780d54940a226fed1b05dd76a626599bb7419/classes.dex" />
+    </item>
+
+</items>
